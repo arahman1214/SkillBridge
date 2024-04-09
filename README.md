@@ -2,6 +2,7 @@
 Bridging the gap to your dream job!
 ![image](https://github.com/arahman1214/SkillBridge/assets/46835443/5145b4c4-a129-4090-942b-4bf7af68d9ee)
 
+Website Link: http://skill-bridge-hosting.s3-website-us-east-1.amazonaws.com
 
 The primary objective of SkillBridge is to provide a comprehensive platform for job seekers to assess their current skills, identify gaps, and receive tailored recommendations for improvement. This initiative aims to empower individuals to align their skill sets with the demands of their desired job roles, thereby enhancing their employability and career prospects. The scope of the project encompasses the development of a full-stack web application leveraging cloud technologies to ensure scalability, reliability, and seamless user experience. The application targets a wide range of users, from recent graduates to experienced professionals seeking to advance or pivot their careers.
 
